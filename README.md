@@ -1,1 +1,1 @@
-# Detection-of-Zero-Day-Attack-for-Power-grids
+# Detection-of-Zero-Day-Attack-for-SCADA-Applications
